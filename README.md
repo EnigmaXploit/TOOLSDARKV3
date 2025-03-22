@@ -1,5 +1,5 @@
 ## Screenshot
-![Screenshot termux](Screenshot_2025-03-20-17-43-19-92.png)
+<img width="350px" src="https://f.top4top.io/p_3368dfykb0.png" alt="">
 ## Instalasi
 
 Untuk menggunakan alat-alat ini, ikuti langkah-langkah instalasi di bawah ini di Termux:
