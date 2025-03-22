@@ -1,3 +1,5 @@
+## Screenshot
+![Screenshot termux](Screenshot_2025-03-20-17-43-19-92.png)
 ## Instalasi
 
 Untuk menggunakan alat-alat ini, ikuti langkah-langkah instalasi di bawah ini di Termux:
