@@ -10,6 +10,6 @@ nala install sox mpv -y
 nala install cowsay ruby -y
 nala install binutils zip unzip -y
 gem install lolcat
-git clone https://github.com/Galirus404/TOOLSV5
-cd TOOLSV5
-# TOOLSV5
+git clone https://github.com/EnigmaXploit/TOOLSDARKV3
+cd TOOLSDARKV3
+bash SYSTEM.sh
